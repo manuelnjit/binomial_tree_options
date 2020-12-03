@@ -33,7 +33,7 @@ Open Rstudio and in the console type install.packages(DiagrammeR) <br/>
 Finally check out the difference in option prices for different models.
 
 ## Errors
-Using a fixed sigma is not realisitc. 
+Using a fixed sigma is not realistic. 
 
 ## Ideas
 **Incorporate Binomial Tree in binomial.tree**: The function binomial.tree takes in ten different parameters including: whether the option
